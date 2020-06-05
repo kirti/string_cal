@@ -1,0 +1,21 @@
+{
+  "name": "string-cal",
+  "version": "1.0.0",
+  "description": "String calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "author": "Kirti",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "jest": "25.0.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {}
+}
