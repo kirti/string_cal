@@ -1,4 +1,4 @@
-# string_cal
+# string_calulator
 string_calulator 
 
 # How to start the project - after download , run below command 
